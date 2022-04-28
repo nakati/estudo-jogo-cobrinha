@@ -1,0 +1,16 @@
+js
+
+let speedP = prompt('Digite um número para a velocidade do jogo: 1=rapida, 2=normal');
+
+if (speedP == 1){
+	speed = 100 
+	alert('ok, o jogo será na velocidade rápida(1)'}	
+}
+else if (speedP == 2){
+	speed = 200
+	alert(`ok, o jogo será na velocidade normal(2)'}
+}
+else{
+	alert('Número diferente digitado, a velocidade será normal')	
+}
+

@@ -1,0 +1,11 @@
+body{
+    height: 95vh; /* altura q fica a vista do nosso documento  */
+    width: 95;
+    display: flex;
+    justify-content: center; /* alinha horiz no meio. */
+    align-items: center; /* alinha vert no meio*/
+    flex-direction: column; /* alinha em coluna, texto e box do jogo. */
+    background-color: rgb(36, 48, 114);
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+}
